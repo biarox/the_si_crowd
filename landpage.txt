@@ -1,74 +1,60 @@
-Somos estudantes de <b>SI</b> (Sistemas para Internet) da <b>FATEC de Santos</b> e estamos desenvolvendo alguns projetos em equipe. Fazemos parte de um grupo formado pela Prof. Dora (facebook.com/dora.vilanova)<br />
+﻿<style="font-family: Verdana, sans-serif; font-size: x-small;">
+Somos estudantes de <b>SI</b> (Sistemas para Internet) da <b>FATEC de Santos</b> e estamos desenvolvendo alguns projetos em equipe. <br />Fazemos parte de um grupo formado pela Prof. Dora (facebook.com/dora.vilanova)<br />
 <br />
 Projetos em andamento...<br />
 <ul>
-  <li>Novo Site da FATEC de Santos;</span></span></li>
-	<li>Portais específicos de cada Curso Oferecido pela FATEC de Santos;</span></span></li>
-	<li>Novo Sistema de Cadastro de Notas pelos professores e Acesso às notas pelos alunos;</span></span></li>
+	<li>Novo Site da FATEC de Santos;</li>
+	<li>Portais específicos de cada Curso Oferecido pela FATEC de Santos;</li>
+	<li>Novo Sistema de Cadastro de Notas pelos professores e Acesso às notas pelos alunos;</li>
 </ul>
 <br />
 <br />
 <center>
-<table cellpadding="5" cellspacing="1">
-<tbody>
-<tr>
-<td><table cellspacing="1">
-  <tbody>
-<tr>
-    <th>Integrante</th>
-    <th>Ciclo atual</th>
-    <th>Facebook</span></th>
-</tr>
-<tr>
-    <td>Aline Albuquerque Fonseca</td>
-    <td><center>4</center>
-</td>
-    <td>facebook.com/aline.a.fonseca.1</td>
-</tr>
-<tr>
-    <td>Beatriz Barbalho Marques</td>
-    <td><center>5</center>
-</td>
-    <td>facebook.com/biarox</td>
-</tr>
-<tr>
-    <td>Eric de Oliveira de Andrade</td>
-    <td><center>recém formado</center>
-</td>
-    <td>facebook.com/erictwentyfourseven</td>
-</tr>
-<tr>
-    <td>Felipe Lopes Lage</td>
-    <td><center>1</center>
-</td>
-    <td>facebook.com/lipelopeslage</td>
-</tr>
-<tr>
-    <td>Francisco Yure Pereira de Araujo</td>
-    <td><center>4</center>
-</td>
-    <td>facebook.com/franciscoyurep</td>
-</tr>
-<tr>
-    <td>Janaina Gonçalves da Silveira</td>
-    <td><center>6</center>
-</td>
-    <td>facebook.com/janaina.goncalves.16121</td>
-</tr>
-<tr>
-    <td>Karina Ferreira Santos</td>
-    <td><center>6</center>
-</td>
-    <td></td>
-</tr>
-<tr>
-    <td>Mariana Silveira Medeiros</td>
-    <td><center>5</center>
-</td>
-    <td>facebook.com/Marimenina</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
+<table cellpadding="5" cellspacing="5">
+    <tr>
+    	<th>Integrante</th>
+    	<th>Ciclo atual</th>
+    	<th>Facebook</th>
+    </tr>
+    <tr>
+    	<td>Aline Albuquerque Fonseca</td>
+    	<td><center>4</center></td>
+    	<td>facebook.com/aline.a.fonseca.1</td>
+    </tr>
+    <tr>
+    	<td>Beatriz Barbalho Marques</td>
+    	<td><center>5</center></td>
+    	<td>facebook.com/biarox</td>
+    </tr>
+    <tr>
+    	<td>Eric de Oliveira de Andrade</td>
+    	<td><center>recém formado</center></td>
+    	<td>facebook.com/erictwentyfourseven</td>
+    </tr>
+    <tr>
+    	<td>Felipe Lopes Lage</td>
+    	<td><center>1</center></td>
+    	<td>facebook.com/lipelopeslage</td>
+    </tr>
+    <tr>
+    	<td>Francisco Yure Pereira de Araujo</td>
+    	<td><center>4</center></td>
+    	<td>facebook.com/franciscoyurep</td>
+    </tr>
+    <tr>
+    	<td>Janaina Gonçalves da Silveira</td>
+    	<td><center>6</center></td>
+    	<td>facebook.com/janaina.goncalves.16121</td>
+    </tr>
+    <tr>
+    	<td>Karina Ferreira Santos</td>
+   	<td><center>6</center></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>Mariana Silveira Medeiros</td>
+    	<td><center>5</center></td>
+    	<td>facebook.com/Marimenina</td>
+    </tr>
+</table>
 </center>
