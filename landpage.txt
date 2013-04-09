@@ -1,5 +1,5 @@
 ﻿<style="font-family: Verdana, sans-serif; font-size: x-small;">
-Somos estudantes de <b>SI</b> (Sistemas para Internet) da <b>FATEC de Santos</b> e estamos desenvolvendo alguns projetos em equipe. <br />Fazemos parte de um grupo formado pela Prof. Dora (facebook.com/dora.vilanova)<br />
+Somos estudantes de <b>SI</b> (Sistemas para Internet) da <b>FATEC de Santos</b> e estamos desenvolvendo alguns projetos em equipe. <br />Fazemos parte de um grupo formado pela <a href="http://www.facebook.com/dora.vilanova" target="_blank">Prof. Dora</a><br />
 <br />
 Projetos em andamento...<br />
 <ul>
@@ -19,32 +19,32 @@ Projetos em andamento...<br />
     <tr>
     	<td>Aline Albuquerque Fonseca</td>
     	<td><center>4</center></td>
-    	<td>facebook.com/aline.a.fonseca.1</td>
+    	<td><a href="http://www.facebook.com/aline.a.fonseca.1" target="_blank">Facebook</a>&nbsp;&nbsp;</td>
     </tr>
     <tr>
     	<td>Beatriz Barbalho Marques</td>
     	<td><center>5</center></td>
-    	<td>facebook.com/biarox</td>
+    	<td><a href="http://www.facebook.com/biarox" target="_blank">Facebook</a>&nbsp;&nbsp;<a href="http://www.twitter.com/biarox80" target="_blank">Twitter</a></td>
     </tr>
     <tr>
     	<td>Eric de Oliveira de Andrade</td>
     	<td><center>recém formado</center></td>
-    	<td>facebook.com/erictwentyfourseven</td>
+    	<td><a href="http://www.facebook.com/erictwentyfourseven" target="_blank">Facebook</a></td>
     </tr>
     <tr>
     	<td>Felipe Lopes Lage</td>
     	<td><center>1</center></td>
-    	<td>facebook.com/lipelopeslage</td>
+    	<td><a href="http://www.facebook.com/lipelopeslage target="_blank">Facebook</a>&nbsp;&nbsp;<a href="http://cargocollective.com/felipelopeslage" target="_blank">Portfolio</a></td>
     </tr>
     <tr>
     	<td>Francisco Yure Pereira de Araujo</td>
     	<td><center>4</center></td>
-    	<td>facebook.com/franciscoyurep</td>
+    	<td><a href="http://www.facebook.com/franciscoyurep target="_blank">Facebook</a></td>
     </tr>
     <tr>
     	<td>Janaina Gonçalves da Silveira</td>
     	<td><center>6</center></td>
-    	<td>facebook.com/janaina.goncalves.16121</td>
+    	<td><a href="http://www.facebook.com/janaina.goncalves.16121 target="_blank">Facebook</a></td>
     </tr>
     <tr>
     	<td>Karina Ferreira Santos</td>
@@ -54,7 +54,7 @@ Projetos em andamento...<br />
     <tr>
     	<td>Mariana Silveira Medeiros</td>
     	<td><center>5</center></td>
-    	<td>facebook.com/Marimenina</td>
+    	<td><a href="http://www.facebook.com/Marimenina target="_blank">Facebook</a></td>
     </tr>
 </table>
 </center>
